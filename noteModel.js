@@ -3,7 +3,7 @@
     this.text = text;
   };
 
-  Note.prototype.PLACEHOLDER = "write your note here you moron"
+  Note.prototype.PLACEHOLDER = "write your note here"
 
   Note.prototype.getText = function () {
     return this.text;
